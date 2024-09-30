@@ -11,7 +11,7 @@ To write a program to implement the K Means Clustering for Customer Segmentation
 
 1. Start the Program.
 
-2.Import dataset and print head,info of the dataset.
+ 2.Import dataset and print head,info of the dataset.
 
 3.check for null values.
 
